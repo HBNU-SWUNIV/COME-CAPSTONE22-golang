@@ -27,7 +27,6 @@
   - ### 2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가
     - 주제 : 개발도상국 협동조합 소득증대를 위한 재고관리SW 설계 및 개발
     - ### System Architecture
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> 
     <img src="https://user-images.githubusercontent.com/97873618/205780550-1c41f05b-daa0-4a1e-be19-586c0a5f7acd.png">
     
     - ### Simulation Modeling  
