@@ -27,12 +27,13 @@
   - ### 2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가
     - 주제 : 개발도상국 협동조합 소득증대를 위한 재고관리SW 설계 및 개발
     - ### System Architecture
-    <img src="https://user-images.githubusercontent.com/97873618/205780550-1c41f05b-daa0-4a1e-be19-586c0a5f7acd.png">
+    <img src="https://user-images.githubusercontent.com/97873618/205780550-1c41f05b-daa0-4a1e-be19-586c0a5f7acd.png" height="80%" width="80%">
     
     - ### Simulation Modeling  
     <img src="https://user-images.githubusercontent.com/97873618/205785749-a0cdaaa8-cfeb-48ec-abd2-54679a054a1c.png">
   
-  
+    - ### Simulation Result
+    <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="70%" width="70%">
 ## Conclusion
   - ### OOO
   - ### OOO
@@ -41,3 +42,7 @@
 - ### 2022년 한국시뮬레이션학회 춘계온라인 학술대회 참가
 - ### 2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 동상 수상
 - ### 2022년 제 11회 정보기술대학 작품전시회 동상 수상
+
+## Poster
+<img src="https://user-images.githubusercontent.com/97873618/205790513-104c5004-7337-41b0-bb82-2c2930ce626d.png" height="70%" width="70%">
+
