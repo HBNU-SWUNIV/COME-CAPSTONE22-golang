@@ -14,12 +14,15 @@
   - OOO
   
 ## System Design
-<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-FF8000?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2ECCFA?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Opencv-D7DF01?style=for-the-badge&logo=Opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-FF0000?style=for-the-badge&logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Influxdb-339933?style=for-the-badge&logo=Influxdb&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  - ### System Requirements
-    - OOO
-    - OOO
-    
+  - ## 시뮬레이션 엔진 
+    - ### System Requirements
+     - OOO
+     - OOO
+  - ## 협동조합 재고관리 시뮬레이션
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+    - ### System Requirements
+     - OOO
+     - OOO
 ## Case Study
   - ### Description
   
