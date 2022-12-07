@@ -22,7 +22,7 @@
 
   - ### System Requirements
     - 시뮬레이션 엔진 아키텍쳐
-    <img src="https://user-images.githubusercontent.com/82207310/206108809-ddbf17f1-1c5e-4761-9445-c594d67dd718.png" height="50%" width="40%">
+    <img src="https://user-images.githubusercontent.com/82207310/206108809-ddbf17f1-1c5e-4761-9445-c594d67dd718.png" height="70%" width="70%">
     
     - 시뮬레이션 엔진 클래스 다이어그램
     <img src="https://user-images.githubusercontent.com/82207310/206108922-0067e694-954f-482d-88f4-eac3731997df.png" height="50%" width="50%">
