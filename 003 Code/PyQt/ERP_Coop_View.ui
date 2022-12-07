@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>804</width>
+    <height>439</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgba(255, 255, 255, 255);</string>
+  </property>
+  <widget class="QTableWidget" name="viewtable_coop">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>160</y>
+     <width>611</width>
+     <height>231</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QDateEdit" name="DateEdit_coop">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>100</y>
+     <width>110</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_mon_coop">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>100</y>
+     <width>75</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_mon_coop{
+	background-color: rgba(204, 204, 204, 255);
+	border-radius:5px;
+}
+
+QPushButton#btn_mon_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Monthly </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_year_coop">
+   <property name="geometry">
+    <rect>
+     <x>690</x>
+     <y>100</y>
+     <width>75</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_year_coop{
+	background-color: rgba(204, 204, 204, 255);
+	border-radius:5px;
+}
+
+QPushButton#btn_year_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Yearly</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_main_coop">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>30</y>
+     <width>90</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_main_coop{
+	background-color: rgba(102, 102, 102, 255);
+	border-radius:5px;
+	color: rgba(255, 255, 255, 255);
+}
+
+QPushButton#btn_main_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(200, 200, 200, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_quarter_coop">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>100</y>
+     <width>75</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_quarter_coop{
+	background-color: rgba(204, 204, 204, 255);
+	border-radius:5px;
+}
+
+QPushButton#btn_quarter_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Quarterly</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>30</y>
+     <width>421</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);</string>
+   </property>
+   <property name="text">
+    <string>Cooperative Inventory management status</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::RichText</enum>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_day_coop">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>100</y>
+     <width>75</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_day_coop{
+	background-color: rgba(204, 204, 204, 255);
+	border-radius:5px;
+}
+
+QPushButton#btn_day_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Daily</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_coop">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>30</y>
+     <width>140</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_coop{
+	background-color: rgba(255, 255, 255, 0);
+	border-radius:5px;
+}
+
+QPushButton#btn_coop::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Cooperative
+Inventory</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_graph_Price">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>110</y>
+     <width>140</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_graph_Price{
+	background-color: rgba(255, 255, 255, 0);
+	border-radius:5px;
+}
+
+QPushButton#btn_graph_Price::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Price Graph</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>140</width>
+     <height>441</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(37, 145, 182, 200);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_graph_amount">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>190</y>
+     <width>140</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#btn_graph_amount{
+	background-color: rgba(255, 255, 255, 0);
+	border-radius:5px;
+}
+
+QPushButton#btn_graph_amount::pressed{
+	padding-left:5px;
+	padding-top:5px;
+	background-color:rgba(204, 228, 247, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>Amount Graph</string>
+   </property>
+  </widget>
+  <widget class="QDateEdit" name="past_DateEdit">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>100</y>
+     <width>110</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>맑은 고딕</family>
+    </font>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>viewtable_coop</zorder>
+  <zorder>DateEdit_coop</zorder>
+  <zorder>btn_mon_coop</zorder>
+  <zorder>btn_year_coop</zorder>
+  <zorder>btn_main_coop</zorder>
+  <zorder>btn_quarter_coop</zorder>
+  <zorder>label</zorder>
+  <zorder>btn_day_coop</zorder>
+  <zorder>btn_coop</zorder>
+  <zorder>btn_graph_Price</zorder>
+  <zorder>btn_graph_amount</zorder>
+  <zorder>past_DateEdit</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
