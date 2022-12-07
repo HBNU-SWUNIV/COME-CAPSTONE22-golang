@@ -17,33 +17,27 @@
   - 이산 시간 사건 모델링을 위한 수학적 틀로 DEVS는 최소단위인 원자 모델과 결합 모델로 이루어 져 있으며 원자 모델은 시스템의 행동을 기록하고 모델의 상태에 따른 동작에 대해 표현한다. 결합 모델 은 모델들을 내부적으로 연결하여 만든 모델로 결합 모델을 통해 복잡한 시스템의 모델링이 가능하다. 
   
 ## System Design
-- Engine :
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
-
-- Web :
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-
-- DB :
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-
-- vue.js 3.2.13
-- node.js 16.17.0
-- express 4.16.4
-
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> 
 
   - ### System Requirements
     - OOO
     - OOO
 ## Case Study
-  - ### 2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가
-    - 주제 : 개발도상국 협동조합 소득증대를 위한 재고관리SW 설계 및 개발
-    - ### System Architecture
+   **2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가**
+  - 주제 : 개발도상국 협동조합 소득증대를 위한 재고관리SW 설계 및 개발
+  - ### System Requirements
+    - 저전력 분산컴퓨팅 환경
+    - 협동조합원들의 현 상황을 파악하고 이를 바탕으로 협동조합의 의사결정을 지원
+    - 오픈소스 기반의 데이터 베이스 관리 시스템
+    - 손쉽게 사용할 수 있는 사용자 인터페이스 및 사용자 경험
+    - 수확치를 예상해 볼 수 있는 모델링 및 시뮬렐이션 기술을 활용
+  - ### System Architecture
     <img src="https://user-images.githubusercontent.com/97873618/205780550-1c41f05b-daa0-4a1e-be19-586c0a5f7acd.png" height="80%" width="80%">
     
-    - ### Simulation Modeling  
+  - ### Simulation Modeling  
     <img src="https://user-images.githubusercontent.com/97873618/205785749-a0cdaaa8-cfeb-48ec-abd2-54679a054a1c.png">
   
-    - ### Simulation Result
+  - ### Simulation Result
     <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="70%" width="70%">
 ## Conclusion
   - ### OOO
