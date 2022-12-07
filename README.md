@@ -16,12 +16,16 @@
 - ### 이산사건시스템 명세(DEVS) 형식론
   - 이산 시간 사건 모델링을 위한 수학적 틀로 DEVS는 최소단위인 원자 모델과 결합 모델로 이루어 져 있으며 원자 모델은 시스템의 행동을 기록하고 모델의 상태에 따른 동작에 대해 표현한다. 결합 모델 은 모델들을 내부적으로 연결하여 만든 모델로 결합 모델을 통해 복잡한 시스템의 모델링이 가능하다. 
   
+  
 ## System Design
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> 
 
   - ### System Requirements
     - OOO
     - OOO
+  
+  (아키텍쳐 사진) 
+ 
 ## Case Study
    **2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가**
   - 주제 : 개발도상국 협동조합 소득증대를 위한 재고관리SW 설계 및 개발
@@ -49,6 +53,7 @@
 ## Conclusion
   - ### OOO
   - ### OOO
+  (성능비교사진)
   
 ## Project Outcome
 - ### 2022년 한국시뮬레이션학회 춘계온라인 학술대회 참가
