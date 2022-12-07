@@ -7,8 +7,8 @@
 
 ## Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  -모델링 & 시뮬레이션 은 시간, 인력, 자원 등의 낭비없이 다양한 문제 해결에 기여 할 수 있기 때문에 국방, 자율주행, 메타버스 등 다양한 분야에서 사용한다. 하지만 기술이 발전함에 따라 규모와 복잡성의 증대로 결과를 도출 해내기 까지 많은 시간이 소요된다. 이러한 문제를 해결하기 위해 속도가 빠른 GoLang과 경량쓰레드인 GoRoutine을 활용해 이산사건시스템 명세 형식론 에 기반한 시뮬레이션 엔진을 개발하고 사례개발을 통해 엔진의 유효성을 검증하고 활용방안을 제시한다.
+
 - ### 기존 해결책의 문제점
   - 기술이 발전함에 따라 규모와 복잡성의 증대로 결과를 도출해내기까지 많은 시간이 소요된다.
 - ### 모델링 시뮬레이션 공학
@@ -22,11 +22,11 @@
 
   - ### System Requirements
     - 시뮬레이션 엔진 아키텍쳐
-    <img src="https://user-images.githubusercontent.com/82207310/206108809-ddbf17f1-1c5e-4761-9445-c594d67dd718.png" height="60%" width="60%">
+    <img src="https://user-images.githubusercontent.com/82207310/206108809-ddbf17f1-1c5e-4761-9445-c594d67dd718.png" height="70%" width="70%">
     
     
     - 시뮬레이션 엔진 클래스 다이어그램
-    <img src="https://user-images.githubusercontent.com/82207310/206108922-0067e694-954f-482d-88f4-eac3731997df.png" height="50%" width="50%">
+    <img src="https://user-images.githubusercontent.com/82207310/206108922-0067e694-954f-482d-88f4-eac3731997df.png" height="70%" width="70%">
  
 ## Case Study
    **2022년 제 14회 소외된 이웃과 함께하는 창의설계 온라인 경진대회 참가**
