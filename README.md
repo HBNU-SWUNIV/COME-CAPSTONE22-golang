@@ -48,7 +48,7 @@
     <img src="https://user-images.githubusercontent.com/97873618/206085999-5d72eca9-873a-4516-8859-0ae00da9b9f3.PNG">
     
   - ### System Architecture
-    <img src="https://user-images.githubusercontent.com/97873618/206149092-34ad6a09-7f1d-4489-b30f-67988e7e1852.PNG" height="80%" width="80%">
+    <img src="https://user-images.githubusercontent.com/97873618/206149092-34ad6a09-7f1d-4489-b30f-67988e7e1852.PNG" height="90%" width="90%">
     
   - ### Simulation Modeling  
     - 조합원, 협동조합, 구매자 의 행동을 DEVS 기반으로 모델링
@@ -58,7 +58,7 @@
   - ### Simulation Result
     - 입력 : 보관기간, 수요 변화 예상, 공급 변화 예상
     - 출력 : 입고량, 출하량, 재고, 보관기간이 지나 버려진량, 구매를 희망했으나 재고부족으로 판매하지 못한 양
-    <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="80%" width="80%">
+    <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="90%" width="90%">
     
 ## Conclusion
   - ### 기대효과
