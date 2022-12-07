@@ -53,9 +53,8 @@
     - 출력 : 입고량, 출하량, 재고, 보관기간이 지나 버려진량, 구매를 희망했으나 재고부족으로 판매하지 못한 양
     <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="70%" width="70%">
 ## Conclusion
-  - ### OOO
-  - ### OOO
-  (성능비교사진)
+  - ### Python엔진과 Golang엔진 성능 비교
+  <img src="https://user-images.githubusercontent.com/82207310/206126841-a5db13f8-7e87-4c1f-86e7-711bf43213ad.JPG">
   
 ## Project Outcome
 - ### 2022년 한국시뮬레이션학회 춘계온라인 학술대회 참가
