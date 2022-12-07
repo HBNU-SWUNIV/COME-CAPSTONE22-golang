@@ -31,13 +31,20 @@
     - 오픈소스 기반의 데이터 베이스 관리 시스템
     - 손쉽게 사용할 수 있는 사용자 인터페이스 및 사용자 경험
     - 수확치를 예상해 볼 수 있는 모델링 및 시뮬렐이션 기술을 활용
+  - ### Solution & WBS
+    <img src="https://user-images.githubusercontent.com/97873618/206085999-5d72eca9-873a-4516-8859-0ae00da9b9f3.PNG">
+    
   - ### System Architecture
     <img src="https://user-images.githubusercontent.com/97873618/205780550-1c41f05b-daa0-4a1e-be19-586c0a5f7acd.png" height="80%" width="80%">
     
   - ### Simulation Modeling  
+    - 조합원, 협동조합, 구매자 의 행동을 DEVS 기반으로 모델링
+    - 지난 1년간의 평균 입고량 과 평균 출하량을 바탕으로 1년동안의 재고량을 시뮬레이션
     <img src="https://user-images.githubusercontent.com/97873618/205785749-a0cdaaa8-cfeb-48ec-abd2-54679a054a1c.png">
   
   - ### Simulation Result
+    - 입력 : 보관기간, 수요 변화 예상, 공급 변화 예상
+    - 출력 : 입고량, 출하량, 재고, 보관기간이 지나 버려진량, 구매를 희망했으나 재고부족으로 판매하지 못한 양
     <img src="https://user-images.githubusercontent.com/97873618/205791070-4b1cd477-3a35-4c50-9067-3934a8b3bdf2.png" height="70%" width="70%">
 ## Conclusion
   - ### OOO
